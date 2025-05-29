@@ -12,5 +12,3 @@ nav_sort: case_insensitive
 just_the_docs:
   aux_js:
     - /assets/js/just-the-docs.js
-
-
