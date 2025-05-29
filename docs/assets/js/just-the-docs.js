@@ -1,10 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Simple interaction test
-  const title = document.querySelector("h1");
-  if (title) {
-    title.textContent += " 👋 Script loaded!";
-    title.style.color = "orange";
-  }
+  // Expand all sections in the sidebar
+  document.querySelectorAll(".has-children").forEach(section => {
+    section.classList.add("active");
+  });
 
-  console.log("Custom Just the Docs JS is running.");
+  console.log("All sidebar sections expanded.");
 });
