@@ -34,4 +34,13 @@ Backend development is the server-side of web development that focuses on everyt
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Containerization**: Docker, Kubernetes
 
+## Popular Frameworks
+
+- **Node.js**: Express.js, NestJS, Next.js
+- **Python**: Django, Flask, FastAPI
+- **Java**: Spring Boot, Jakarta EE
+- **Ruby**: Ruby on Rails
+- **Go**: Gin, Echo, Fiber
+- **.NET**: ASP.NET Core
+
 Explore our documentation sections to learn more about specific backend technologies and concepts.
