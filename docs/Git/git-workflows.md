@@ -1,7 +1,7 @@
 ---
 title: Git Workflows & Use Cases
 nav_order: 2
-parent: Dev Tools
+parent: Git
 ---
 
 # Git Workflows & Use Cases

@@ -1,7 +1,7 @@
 ---
 title: Installation
 nav_order: 1
-parent: Getting Started
+parent: Git
 ---
 
 # Installation
