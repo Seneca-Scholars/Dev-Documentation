@@ -1,7 +1,7 @@
 ---
-layout: default
-title: SCSS
-nav_order: 2
+title: Stylings
+parent: Frontend
+nav_order: 3
 ---
 
 # Welcome
