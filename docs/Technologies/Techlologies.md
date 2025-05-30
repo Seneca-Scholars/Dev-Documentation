@@ -9,19 +9,19 @@ This section provides comprehensive documentation about various technologies use
 
 ## Categories
 
-### [Languages](./Languages)
+### [Languages](./Languages/Languages.md)
 - Programming languages and their ecosystems
 - Language-specific features and syntax
 - Best practices and coding standards
 - Common use cases and applications
 
-### [Frameworks](./Frameworks)
+### [Frameworks](./Frameworks/Frameworks.md)
 - Web development frameworks
 - Frontend and backend frameworks
 - Framework-specific features and tools
 - Framework selection guidelines
 
-### [Databases](./Databases)
+### [Databases](./Databases/Databases.md)
 - Relational databases
 - NoSQL databases
 - Database design principles
@@ -29,28 +29,28 @@ This section provides comprehensive documentation about various technologies use
 - Data modeling
 - Database administration
 
-### [Git](./Git)
+### [Git](./Git/Git.md)
 - Version control with Git
 - Git workflows and best practices
 - Common Git commands
 - Collaboration strategies
 - Branch management
 
-### [Networking](./Networking)
+### [Networking](./Networking/Networking.md)
 - Network protocols
 - API design
 - Web services
 - Network security
 - Performance optimization
 
-### [Libraries](./Libraries)
+### [Libraries](./Libraries/Libraries.md)
 - Common software libraries
 - Library integration
 - Dependency management
 - Version control
 - Best practices
 
-### [HTTP Requests](./HttpRequests)
+### [HTTP Requests](./HttpRequests/HttpRequests.md)
 - HTTP methods and protocols
 - RESTful APIs
 - API authentication
